@@ -1,0 +1,7 @@
+.venv
+__pycache__
+node_modules
+.DS_Store
+.vscode
+open-api-key.txt
+k8s
