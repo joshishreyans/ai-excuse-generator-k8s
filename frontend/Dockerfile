@@ -10,7 +10,7 @@ COPY index.html .
 COPY src ./src
 
 RUN npm run build
-----build----
+#----build----
 
 FROM nginx:alpine
 
